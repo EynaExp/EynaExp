@@ -71,9 +71,3 @@
 **Remember:** Know the law, stay ethical, hack with permission.
 
 
-```diff
-# 免責事項 / Disclaimer
-- 全てのコンテンツは教育・研究目的のみです。
-! 許可なくシステムに使用しないでください。
-+ 悪用した場合の責任は負いません。
-@@ 法律を知り、倫理を守れ。 @@
