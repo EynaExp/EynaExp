@@ -1,4 +1,6 @@
-# Red Teamer | Malware Dev + Analyst 
+<h1 align="center">
+  <span style="color:#ff0000;">Red Teamer | Malware Dev + Analyst</span>
+</h1>
 
 > *“Hide in the darkness, but do not remain there. Read the light, control the shadow.”*
 > 
