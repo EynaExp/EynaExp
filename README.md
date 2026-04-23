@@ -2,6 +2,7 @@
   <span style="color:#ff0000;">Red Teamer | Malware Dev + Analyst</span>
 </h1>
 
+
 > *“Hide in the darkness, but do not remain there. Read the light, control the shadow.”*
 > 
 > *“「闇に隠れ、されど闇にとどまらず。光を読んで、影を操れ。」 ”*
@@ -15,6 +16,7 @@
   <span style="color:#ffcc00;">^_^ About Me (自己紹介)</span>
 </h2>
 
+
 - **Red Teaming** – TTP emulation, C2 frameworks, operational security.
 - **Malware** – evasion, Loaders.
 - Constantly researching: kernel internals, Windows API, modern detection bypasses.
@@ -24,7 +26,9 @@
 
 ---
 
-## (❁´◡`❁) Arsenal (技術) 
+<h2 align="center">
+  <span style="color:#ffcc00;">(❁´◡`❁) Arsenal (技術)</span>
+</h2>
 
 | Category          | Technologies / Interests                                                                 |
 |-------------------|------------------------------------------------------------------------------------------|
@@ -34,6 +38,7 @@
 | **Reversing**     | IDA, Ghidra, x64dbg, dnSpy                                                               |
 
 ---
+
 
 ## 🔥 Featured Projects (主要プロジェクト)
 
