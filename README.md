@@ -32,10 +32,10 @@
 
 > *(Placeholders – replace with your actual repos)*
 
-- **`SilentLoader`** – Position-independent shellcode loader with polymorphic encryption + indirect syscalls.
-- **`RedLog`** – Red team-oriented process injection & beacon simulation (C++).
-- **`OffensiveNim`** – Collection of Nim-based droppers, encryptors, and lateral movement tools.
-- **`SyscallBypass`** – Examples of direct syscalls vs `ntdll` hooks (educational).
+- **`Devine-C2`** – Custom C2 Framework.
+- **`Sairento-Step`** – Advanced Persistence Framework for Windows.
+- **`Exploit & POC`** – Lots of Custom Exploits and POCs.
+- **`Loaders`** – Some loaders for red team stuff.
 
 🔗 **More to come – stay tuned.**
 
@@ -43,8 +43,8 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide=html,css)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EynaExp&show_icons=true&theme=radical&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EynaExp&layout=compact&theme=radical&hide=html,css)
 
 ---
 
