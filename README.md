@@ -1,6 +1,6 @@
 # 🩸 Red Teamer | Malware Dev | Adversary Emulation
 
-> *“Know thy system, simulate the real, stay ahead of the curve.”*
+> *“Just Do it, No Matter What.”*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C2C&center=true&vCenter=true&width=435&lines=Red+Teamer;Malware+Developer;Detection+Evasion+Enthusiast;C%2FC%2B%2B%2C+Rust%2C+Python%2C+Nim;Living+off+the+land)](https://git.io/typing-svg)
 
@@ -9,8 +9,7 @@
 ## 🧠 About Me
 
 - 🎯 **Red Teaming** – TTP emulation, C2 frameworks, operational security.
-- 💀 **Malware Development** – EDR/AV evasion, process injection, custom loaders.
-- 🔒 **Defender mindset** – I break things to understand how to fix them.
+- 💀 **Malware** – evasion, Loaders.
 - 📚 Constantly researching: kernel internals, Windows API, modern detection bypasses.
 
 > ⚠️ **Disclaimer**  
@@ -22,12 +21,10 @@
 
 | Category          | Technologies / Interests                                                                 |
 |-------------------|------------------------------------------------------------------------------------------|
-| **Languages**     | C, C++, Rust, Python, Nim, PowerShell, C#, Assembly                                      |
-| **C2 Frameworks** | Cobalt Strike, Mythic, Havoc, Sliver, (custom C2 in the works)                           |
-| **Evasion**       | Direct syscalls, unhooking, API obfuscation, dynamic resolution, AMSI/ETW patches        |
-| **Persistence**   | WMI, scheduled tasks, COM hijacking, registry run keys                                   |
+| **Languages**     | C, ASM, Python, Batch, PowerShell                                                        |
+| **C2 Frameworks** | Covenant, Havoc, MSF, (custom C2 in the works)                                           |
+| **Persistence**   | Everything possible :)                                                                   |
 | **Reversing**     | IDA, Ghidra, x64dbg, dnSpy                                                               |
-| **Defense**       | Sigma rules, Sysmon, YARA, EDR internals (research only)                                 |
 
 ---
 
