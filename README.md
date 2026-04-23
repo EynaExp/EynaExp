@@ -1,8 +1,10 @@
-# 🩸 Red Teamer | Malware Dev | Adversary Emulation
+# Red Teamer | Malware Dev + Analyst 
 
 > *“Just Do it, No Matter What.”*
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C2C&center=true&vCenter=true&width=435&lines=Red+Teamer;Malware+Developer;Detection+Evasion+Enthusiast;C%2FC%2B%2B%2C+Rust%2C+Python%2C+Nim;Living+off+the+land)](https://git.io/typing-svg)
+
 
 ---
 
@@ -50,17 +52,16 @@
 
 ## 🧪 Current Focus
 
-- Writing a custom **EDR userland hook detector**.
-- Learning **Windows kernel-mode rootkits** (research VM only).
-- Developing a **Rust-based C2** with async tasking.
+- Windows Internals.
+- Windows Programming.
+- Post Exploitation Techniques.
+- Active Directory Attacks
 
 ---
 
 ## 📫 Contact / Disclosure
 
-- 🔐 **Security research contact**: `redteam@example.com` (PGP key available)
-- 🐦 Twitter / X: [@yourhandle](https://x.com/yourhandle)
-- 📝 Blog (soon): Offensive internals & malware dev write-ups
+- 🔐 **Linkedin**: [Page](https://www.linkedin.com/in/danial-javanrad/)
 
 ---
 
