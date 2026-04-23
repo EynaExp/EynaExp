@@ -1,4 +1,4 @@
-#  About Me: <h2>👋 Hi ! I'm Danial</h2>
+#  About Me: <h2>I'm Danial</h2>
 <div style="display:flex; gap:5px; flex-wrap:wrap;"><p>🔭 I’m A Red Teamer Co<br>🌱 I like malwares<br>⚡ Just A Tech<br></p></div>
 
 ## 🌐 Socials:
