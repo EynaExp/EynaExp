@@ -1,6 +1,6 @@
 # Red Teamer | Malware Dev + Analyst 
 
-> *“Just Do it, No Matter What.”*
+> *“Just Do it, No Matter What (^///^) ”*
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C2C&center=true&vCenter=true&width=435&lines=Red+Teamer;Malware+Developer;Detection+Evasion+Enthusiast;C%2FC%2B%2B%2C+Rust%2C+Python%2C+Nim;Living+off+the+land)](https://git.io/typing-svg)
@@ -8,18 +8,18 @@
 
 ---
 
-## 🧠 About Me
+## ^_^ About Me
 
-- 🎯 **Red Teaming** – TTP emulation, C2 frameworks, operational security.
-- 💀 **Malware** – evasion, Loaders.
-- 📚 Constantly researching: kernel internals, Windows API, modern detection bypasses.
+- **Red Teaming** – TTP emulation, C2 frameworks, operational security.
+- **Malware** – evasion, Loaders.
+- Constantly researching: kernel internals, Windows API, modern detection bypasses.
 
-> ⚠️ **Disclaimer**  
+> ^_____^ **Disclaimer**  
 > All content shared is for **educational & research purposes only**. Do not use any techniques or tools on systems without explicit permission. I am not responsible for misuse.
 
 ---
 
-## 🛠️ Arsenal (Labs & Tooling)
+## (❁´◡`❁) Arsenal (Labs & Tooling)
 
 | Category          | Technologies / Interests                                                                 |
 |-------------------|------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@
 - **`Exploit & POC`** – Lots of Custom Exploits and POCs.
 - **`Loaders`** – Some loaders for red team stuff.
 
-🔗 **More to come – stay tuned.**
+:D **More to come – stay tuned.**
 
 ---
 
@@ -59,17 +59,11 @@
 
 ---
 
-## 📫 Contact / Disclosure
+## Contact / Disclosure
 
-- 🔐 **Linkedin**: [Page](https://www.linkedin.com/in/danial-javanrad/)
+- 🔷 **Linkedin**: [Page](https://www.linkedin.com/in/danial-javanrad/)
 
----
-
-## 🎭 Quote I resonate with
-
-> *“The quieter you become, the more you are able to hear.”*  
-> — *Kali Linux (loosely adapted)*
 
 ---
 
-**🖤 Remember:** Capability without responsibility is chaos. Know the law, stay ethical, hack with permission.
+**Remember:** Know the law, stay ethical, hack with permission.
