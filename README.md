@@ -1,6 +1,7 @@
 # Red Teamer | Malware Dev + Analyst 
 
 > *“Hide in the darkness, but do not remain there. Read the light, control the shadow.”*
+> 
 > *“「闇に隠れ、されど闇にとどまらず。光を読んで、影を操れ。」 ”*
 
 
