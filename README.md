@@ -45,14 +45,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## (O_O) GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EynaExp&show_icons=true&theme=radical&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EynaExp&layout=compact&theme=radical&hide=html,css)
 
 ---
 
-## 🧪 Current Focus (現在の集中領域)
+## (U_U) Current Focus (現在の集中領域)
 
 - Windows Internals.
 - Windows Programming.
