@@ -11,8 +11,9 @@
 
 
 ---
-
-## ^_^ About Me (自己紹介)
+<h2 align="center">
+  <span style="color:#ffcc00;">^_^ About Me (自己紹介)</span>
+</h2>
 
 - **Red Teaming** – TTP emulation, C2 frameworks, operational security.
 - **Malware** – evasion, Loaders.
