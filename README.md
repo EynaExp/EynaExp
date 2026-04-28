@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <span style="color:#ff0000;">Red Teamer&nbsp;|&nbsp;Malware Dev + Analyst</span>
+  <span style="color:#ff0000;">CyberSecurity Researcher&nbsp;|&nbsp;Malware Dev + Analyst</span>
 </h1>
 
 <blockquote>
@@ -11,7 +11,7 @@
 
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C2C&center=true&vCenter=true&width=435&lines=Red+Teamer;Malware+Developer;Detection+Evasion+Enthusiast;C%2FC%2B%2B%2C+Rust%2C+Python%2C+Nim;Living+off+the+land" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C2C&center=true&vCenter=true&width=435&lines=CyberSecurity+Researcher;Malware+Developer;Detection+Evasion+Enthusiast;C%2FC%2B%2B%2C+Rust%2C+Python%2C+Nim;Living+off+the+land" alt="Typing SVG" />
   </a>
 </p>
 
