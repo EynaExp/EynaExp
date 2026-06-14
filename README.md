@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <span style="color:#ff0000;">CyberSecurity Researcher&nbsp;|&nbsp;Malware Dev + Analyst</span>
+  <span style="color:#ff0000;">CyberSecurity Researcher&nbsp;|&nbsp;</span>
 </h1>
 
 <blockquote>
