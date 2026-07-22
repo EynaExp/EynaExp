@@ -96,17 +96,6 @@
   :D More to come – stay tuned.
 </p>
 
----
-
-<h2>
-  (O_O) GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EynaExp&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EynaExp&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
-</p>
 
 ---
 
