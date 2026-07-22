@@ -69,37 +69,6 @@
 ---
 
 <h2>
-  🔥 Featured Projects (主要プロジェクト)
-</h2>
-
-<p align="center">
-  <a href="https://github.com/EynaExp/Devine-C2">
-    <b>Devine-C2</b> – Custom C2 Framework
-  </a>
-  <br/>
-
-  <a href="https://github.com/EynaExp/Sairento-Step">
-    <b>Sairento-Step</b> – Advanced Persistence Framework for Windows
-  </a>
-  <br/>
-
-  <a href="https://github.com/EynaExp">
-    <b>Exploit &amp; POC</b> – Custom Exploits and POCs
-  </a>
-  <br/>
-
-  <a href="https://github.com/EynaExp">
-    <b>Loaders</b> – Loaders for red team operations
-  </a>
-  <br/>
-
-  :D More to come – stay tuned.
-</p>
-
-
----
-
-<h2>
   (U_U) Current Focus (現在の集中領域)
 </h2>
 
