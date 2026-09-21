@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <span style="color:#ff0000;">Red Team | AI | Automation</span>
+  <span style="color:#ff0000;">Cyber Security | AI | Automation</span>
 </h1>
 
 <blockquote>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
-    <td>Havoc, MSF, Covenant + building custom automation frameworks</td>
+    <td>Havoc, MSF, Cobalt + building custom automation frameworks</td>
   </tr>
   <tr>
     <td><b>Infra</b></td>
